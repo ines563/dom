@@ -1,0 +1,29 @@
+tr,td,th{
+    border: solid 2px black;
+    text-align: center;
+    border-collapse: collapse;
+    width: 10%;
+}
+h1{
+    color: rgb(177, 21, 60);
+    text-align: center;
+}
+h3{
+    color: rgb(223, 127, 89);
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+}
+body{
+    background-color: #ddd;
+}
+input{
+    width:10px;
+}
+.like{
+    text-decoration: none;
+    color:black;
+}
